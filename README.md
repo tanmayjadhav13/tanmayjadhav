@@ -1,4 +1,3 @@
 # tanmayjadhav
 its my fisrt repository
-Author- tanmay jadhav
-
+Author- tanmay jadhav (studing)
